@@ -8,10 +8,11 @@ namespace Test1
         {
             Console.WriteLine("Sing along with me!");
 
-            string repeat;
-
-            do
+            bool goOn = true;
+            while (goOn == true)
             {
+
+
 
                 Console.Write("I'm a little teapot.");
                 Console.WriteLine("");
@@ -20,25 +21,39 @@ namespace Test1
                 if (responseONE.ToLower().StartsWith("short and stout"))
                 {
                     Console.WriteLine("Here is my handle, here is my spout!");
+                    goOn = false;
                 }
-
-
                 else
                 {
-                    Console.WriteLine("Those aren't the words!");
+                    GetContinue();
                 }
-
-                    Console.WriteLine("Try again?");
-                    Console.WriteLine("");
-                    repeat = Console.ReadLine();
-           
-
-            } 
-            while (string.Equals(repeat, "yes", StringComparison.OrdinalIgnoreCase));
 
             }
 
-      
 
         }
+        public static bool GetContinue()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Those aren't the words!  Try again?");
+            string answer = Console.ReadLine();
+
+            if (answer.ToLower() == "y")
+            {
+                return true;
+            }
+            else if (answer.ToLower() == "n")
+            {
+                return false;
+            }
+            else
+            {
+                Console.WriteLine("I didn't understand your response, please try again...");
+            }
+            return GetContinue();
+
+        }
+
+
     }
+}

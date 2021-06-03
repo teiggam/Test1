@@ -11,3 +11,16 @@ C:\Users\Maggie\Documents\Grand Circus\Projects\Test1\Test1\obj\Debug\netcoreapp
 C:\Users\Maggie\Documents\Grand Circus\Projects\Test1\Test1\obj\Debug\netcoreapp3.1\Test1.dll
 C:\Users\Maggie\Documents\Grand Circus\Projects\Test1\Test1\obj\Debug\netcoreapp3.1\Test1.pdb
 C:\Users\Maggie\Documents\Grand Circus\Projects\Test1\Test1\obj\Debug\netcoreapp3.1\Test1.genruntimeconfig.cache
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\bin\Debug\netcoreapp3.1\Test1.exe
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\bin\Debug\netcoreapp3.1\Test1.deps.json
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\bin\Debug\netcoreapp3.1\Test1.runtimeconfig.json
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\bin\Debug\netcoreapp3.1\Test1.runtimeconfig.dev.json
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\bin\Debug\netcoreapp3.1\Test1.dll
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\bin\Debug\netcoreapp3.1\Test1.pdb
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\obj\Debug\netcoreapp3.1\Test1.csprojAssemblyReference.cache
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\obj\Debug\netcoreapp3.1\Test1.AssemblyInfoInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\obj\Debug\netcoreapp3.1\Test1.AssemblyInfo.cs
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\obj\Debug\netcoreapp3.1\Test1.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\obj\Debug\netcoreapp3.1\Test1.dll
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\obj\Debug\netcoreapp3.1\Test1.pdb
+C:\Users\Maggie\Documents\Grand Circus\Week 2\Test1\Test1\obj\Debug\netcoreapp3.1\Test1.genruntimeconfig.cache
