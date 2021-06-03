@@ -33,7 +33,8 @@ namespace Test1
                     repeat = Console.ReadLine();
            
 
-            } while (string.Equals(repeat, "yes", StringComparison.OrdinalIgnoreCase));
+            } 
+            while (string.Equals(repeat, "yes", StringComparison.OrdinalIgnoreCase));
 
             }
 
