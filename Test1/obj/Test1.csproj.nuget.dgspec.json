@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maggie\\Documents\\Grand Circus\\Projects\\Test1\\Test1\\Test1.csproj": {}
+    "C:\\Users\\Maggie\\Documents\\Grand Circus\\Week 2\\Test1\\Test1\\Test1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maggie\\Documents\\Grand Circus\\Projects\\Test1\\Test1\\Test1.csproj": {
+    "C:\\Users\\Maggie\\Documents\\Grand Circus\\Week 2\\Test1\\Test1\\Test1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maggie\\Documents\\Grand Circus\\Projects\\Test1\\Test1\\Test1.csproj",
+        "projectUniqueName": "C:\\Users\\Maggie\\Documents\\Grand Circus\\Week 2\\Test1\\Test1\\Test1.csproj",
         "projectName": "Test1",
-        "projectPath": "C:\\Users\\Maggie\\Documents\\Grand Circus\\Projects\\Test1\\Test1\\Test1.csproj",
+        "projectPath": "C:\\Users\\Maggie\\Documents\\Grand Circus\\Week 2\\Test1\\Test1\\Test1.csproj",
         "packagesPath": "C:\\Users\\Maggie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maggie\\Documents\\Grand Circus\\Projects\\Test1\\Test1\\obj\\",
+        "outputPath": "C:\\Users\\Maggie\\Documents\\Grand Circus\\Week 2\\Test1\\Test1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maggie\\AppData\\Roaming\\NuGet\\NuGet.Config",
